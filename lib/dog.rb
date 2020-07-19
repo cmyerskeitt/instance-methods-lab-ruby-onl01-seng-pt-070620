@@ -9,3 +9,10 @@ class Dog
   end
   
 end 
+
+class Person 
+  
+  def talk 
+    puts "Ther Person is walking"
+  end 
+end 
