@@ -13,6 +13,6 @@ end
 class Person 
   
   def talk 
-    puts "Ther Person is walking"
+    puts "The Person is walking"
   end 
 end 
